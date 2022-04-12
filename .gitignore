@@ -1,0 +1,7 @@
+﻿/lib/*
+/UNO 素材/*/
+/backup/*
+*.exe
+*.bak
+*.rar
+*.zip

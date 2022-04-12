@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="5000px"
+	 height="3507.648px" viewBox="0 0 5000 3507.648" enable-background="new 0 0 5000 3507.648" xml:space="preserve">
+<g id="消息函数划分">
+	<rect x="2183.927" y="729.228" opacity="0.5" fill="#FFFF00" width="557.245" height="178.469"/>
+	<rect x="377.904" y="857.999" opacity="0.5" fill="#FFFF00" width="427.22" height="122.745"/>
+	<polygon opacity="0.5" fill="#FF00FF" points="700.452,1230.875 377.904,1230.875 377.904,980.743 636.444,980.743 
+		636.444,1179.543 700.452,1179.543 	"/>
+	<rect x="2183.927" y="69.321" opacity="0.5" fill="#FFFF00" width="557.245" height="255.029"/>
+	<rect x="2183.927" y="324.35" opacity="0.5" fill="#00FFFF" width="175.709" height="404.878"/>
+	<rect x="2359.637" y="324.35" opacity="0.5" fill="#FF00FF" width="381.385" height="187.19"/>
+	<rect x="2359.637" y="511.54" opacity="0.5" fill="#0000FF" width="199.745" height="217.688"/>
+	<rect x="2559.382" y="511.54" opacity="0.5" fill="#00FFFF" width="181.64" height="217.688"/>
+	<rect x="2183.927" y="907.949" opacity="0.5" fill="#FF00FF" width="557.245" height="143.328"/>
+	<rect x="2183.927" y="1051.276" opacity="0.5" fill="#0000FF" width="271.092" height="399.61"/>
+	<rect x="2455.019" y="1232.757" opacity="0.5" fill="#FFFF00" width="204.045" height="218.129"/>
+	<rect x="2659.064" y="1232.757" opacity="0.5" fill="#0000FF" width="184.52" height="218.129"/>
+	<rect x="2455.019" y="1051.276" opacity="0.5" fill="#00FFFF" width="388.565" height="181.481"/>
+	<rect x="2183.927" y="1450.887" opacity="0.5" fill="#FF00FF" width="659.657" height="124.875"/>
+	<rect x="313.394" y="101.983" opacity="0.5" fill="#00FFFF" width="740.984" height="50.644"/>
+	<rect x="377.904" y="1230.875" opacity="0.5" fill="#0000FF" width="162.528" height="192.4"/>
+	<rect x="540.433" y="1230.875" opacity="0.5" fill="#00FFFF" width="160.02" height="192.4"/>
+	<rect x="377.904" y="1423.275" opacity="0.5" fill="#FFFF00" width="162.528" height="117.724"/>
+	<rect x="540.433" y="1423.275" opacity="0.5" fill="#FF00FF" width="160.02" height="117.724"/>
+	<rect x="1381.949" y="857.999" opacity="0.5" fill="#FFFF00" width="427.22" height="122.745"/>
+	<polygon opacity="0.5" fill="#FF00FF" points="1704.497,1230.875 1381.949,1230.875 1381.949,980.743 1640.489,980.743 
+		1640.489,1179.543 1704.497,1179.543 	"/>
+	<rect x="1381.949" y="1230.875" opacity="0.5" fill="#0000FF" width="162.529" height="126.133"/>
+	<rect x="1544.478" y="1230.875" opacity="0.5" fill="#00FFFF" width="160.02" height="126.133"/>
+	<polygon opacity="0.5" fill="#FCEE21" points="706.793,231.476 706.793,152.626 313.394,152.626 313.394,285.317 485.085,285.317 
+		485.085,355.685 706.793,355.685 781.278,355.685 781.278,231.476 	"/>
+	<rect x="618.876" y="355.685" opacity="0.5" fill="#FF00FF" width="162.402" height="101.723"/>
+	<rect x="436.891" y="355.685" opacity="0.5" fill="#0000FF" width="181.985" height="101.723"/>
+	<rect x="881.119" y="152.626" opacity="0.5" fill="#FF00FF" width="173.259" height="127.53"/>
+	<rect x="881.119" y="280.156" opacity="0.5" fill="#FCEE21" width="173.259" height="72.056"/>
+	<rect x="618.876" y="457.407" opacity="0.5" fill="#FCEE21" width="162.402" height="119.669"/>
+	<rect x="436.891" y="457.407" opacity="0.5" fill="#00FFFF" width="181.985" height="119.669"/>
+	<polygon opacity="0.5" fill="#FF00FF" points="313.394,285.317 313.394,355.685 313.394,577.077 436.891,577.077 436.891,355.685 
+		485.085,355.685 485.085,285.317 	"/>
+	<polygon opacity="0.5" fill="#0000FF" points="706.793,152.626 706.793,231.476 781.278,231.476 781.278,577.077 485.085,577.077 
+		313.394,577.077 313.394,674.971 485.085,674.971 881.119,674.971 881.119,577.077 881.119,231.476 881.119,152.626 	"/>
+	<rect x="1209.881" y="101.983" opacity="0.5" fill="#00FFFF" width="567.725" height="50.644"/>
+	<polygon opacity="0.5" fill="#FCEE21" points="1603.28,152.626 1209.881,152.626 1209.881,285.317 1381.572,285.317 
+		1381.572,414.714 1603.28,414.714 	"/>
+	<polygon opacity="0.5" fill="#00FFFF" points="1381.572,535.135 1603.28,534.947 1603.28,414.525 1381.572,414.525 	"/>
+	<polygon opacity="0.5" fill="#0000FF" points="1640.489,980.743 1640.489,1179.543 1704.497,1179.543 1704.497,1357.008 
+		1809.168,1357.008 1809.168,1179.543 1809.168,980.743 	"/>
+	<polygon opacity="0.5" fill="#FF00FF" points="1580.498,1357.008 1381.949,1357.008 1381.949,1428.296 1580.498,1428.296 
+		1809.168,1428.296 1809.168,1357.008 	"/>
+	<polygon opacity="0.5" fill="#0000FF" points="636.444,980.743 636.444,1179.543 700.452,1179.543 700.452,1541 805.124,1541 
+		805.124,1179.543 805.124,980.743 	"/>
+	<polygon opacity="0.5" fill="#00FFFF" points="569.426,1541 377.904,1541 377.904,1609.712 569.426,1609.712 805.124,1609.712 
+		805.124,1541 	"/>
+	<polygon opacity="0.5" fill="#FF00FF" points="1209.881,285.317 1209.881,374.245 1209.881,535.135 1333.378,535.135 
+		1381.572,535.135 1381.572,374.245 1381.572,285.317 	"/>
+	<polygon opacity="0.5" fill="#0000FF" points="1603.28,152.626 1603.28,534.947 1209.881,535.135 1209.881,629.077 
+		1777.605,629.077 1777.605,231.476 1777.605,152.626 	"/>
+</g>
+<g id="流程">
+	<g>
+		<rect x="29.5" y="46.479" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="129.271" height="33.636"/>
+		<text transform="matrix(1 0 0 1 42.5518 68.5684)" font-family="'ArialMT'" font-size="18.0728">RuleForm</text>
+	</g>
+	<g>
+		<rect x="29.5" y="93.67" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="129.271" height="33.635"/>
+		<text transform="matrix(1 0 0 1 42.5518 115.7578)" font-family="'ArialMT'" font-size="18.0728">PlayerClient</text>
+	</g>
+	<g>
+		<rect x="29.5" y="144.876" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="129.271" height="33.635"/>
+		<text transform="matrix(1 0 0 1 42.5518 166.9639)" font-family="'ArialMT'" font-size="18.0728">Process</text>
+	</g>
+	<g>
+		<rect x="539.177" y="109.734" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<text transform="matrix(1 0 0 1 603.6865 131.8228)" font-family="'ArialMT'" font-size="18.0728">Msg_SendDefendRound</text>
+	</g>
+	<g>
+		<rect x="539.177" y="630.793" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<text transform="matrix(1 0 0 1 635.314 652.8818)" font-family="'ArialMT'" font-size="18.0728">proc::NextProcess</text>
+	</g>
+	<g>
+		<rect x="539.429" y="181.022" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="147.847" height="33.636"/>
+		<text transform="matrix(1 0 0 1 543.4834 203.1108)" font-family="'ArialMT'" font-size="18.0728">Msg_DefendCard</text>
+	</g>
+	<g>
+		<rect x="450.945" y="466.632" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.635"/>
+		<text transform="matrix(1 0 0 1 465.0005 488.7197)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="626.907" y="466.632" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="147.847" height="33.635"/>
+		<text transform="matrix(1 0 0 1 640.9619 488.7197)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="450.945" y="362.086" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.636"/>
+		<text transform="matrix(1 0 0 1 472.5313 384.1748)" font-family="'ArialMT'" font-size="18.0728">Msg_Refuse</text>
+	</g>
+	<g>
+		<rect x="626.907" y="362.086" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="147.847" height="33.636"/>
+		<text transform="matrix(1 0 0 1 649.998 384.1748)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="626.536" y="518.967" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.636"/>
+		<text transform="matrix(1 0 0 1 636.0728 541.0557)" font-family="'ArialMT'" font-size="18.0728">proc::CardStack</text>
+	</g>
+	<g>
+		<rect x="626.907" y="414.421" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="147.847" height="33.636"/>
+		<text transform="matrix(1 0 0 1 627.4077 436.5103)" font-family="'ArialMT'" font-size="18.0728">Msg_PlaySuccess</text>
+	</g>
+	<g>
+		<rect x="889.839" y="237.5" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="156.885" height="33.636"/>
+		<text transform="matrix(1 0 0 1 894.8579 259.5889)" font-family="'ArialMT'" font-size="18.0728">Msg_PlaySuccess</text>
+	</g>
+	<g>
+		<rect x="450.945" y="414.421" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.636"/>
+		<text transform="matrix(1 0 0 1 460.4829 436.5103)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayFailed</text>
+	</g>
+	<g>
+		<rect x="502.043" y="311.759" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="222.63" height="33.635"/>
+		<text transform="matrix(1 0 0 1 506.8013 333.8467)" font-family="'ArialMT'" font-size="18.0728">Msg_SendDefendRequest</text>
+	</g>
+	<g>
+		<rect x="322.93" y="242.895" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.636"/>
+		<text transform="matrix(1 0 0 1 330.9609 264.9834)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayFailed</text>
+	</g>
+	<g>
+		<rect x="710.617" y="181.022" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="156.885" height="33.636"/>
+		<text transform="matrix(1 0 0 1 722.6719 203.1108)" font-family="'ArialMT'" font-size="18.0728">Msg_DefendEnd</text>
+	</g>
+	<g>
+		<rect x="889.839" y="181.022" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="156.885" height="33.636"/>
+		<text transform="matrix(1 0 0 1 897.8696 203.1108)" font-family="'ArialMT'" font-size="18.0728">Msg_ReturnHand</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="697.818" y1="143.37" x2="697.818" y2="161.446"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="613.352" y1="161.446" x2="613.352" y2="181.022"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="789.059" y1="161.446" x2="789.059" y2="181.022"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="968.281" y1="161.446" x2="968.281" y2="181.022"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="968.281" y1="214.785" x2="968.281" y2="237.5"/>
+	<g>
+		<rect x="889.839" y="293.851" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="156.885" height="33.636"/>
+		<text transform="matrix(1 0 0 1 917.4482 315.9395)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="968.281" y1="271.136" x2="968.281" y2="293.851"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="697.818" y1="75.849" x2="697.818" y2="109.734"/>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="700.83,621.934 700.83,601.806 789.059,601.806 
+				789.059,214.658 			"/>
+			<g>
+				<polygon points="703.735,619.953 700.83,630.793 697.925,619.953 				"/>
+			</g>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="968.281" y1="161.446" x2="613.352" y2="161.446"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="613.352" y1="287.953" x2="613.352" y2="311.297"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="613.352" y1="345.394" x2="613.352" y2="378.904"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="526.375" y1="395.722" x2="526.375" y2="414.421"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="700.83" y1="395.722" x2="700.83" y2="414.421"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="526.375" y1="448.058" x2="526.375" y2="466.757"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="526.375" y1="500.267" x2="526.375" y2="559.428"/>
+			<g>
+				<polygon points="523.47,557.446 526.375,568.287 529.28,557.446 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<rect x="322.93" y="294.541" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.636"/>
+		<text transform="matrix(1 0 0 1 336.9849 316.6294)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="398.36" y1="275.967" x2="398.36" y2="294.667"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="398.36" y1="328.175" x2="398.36" y2="559.428"/>
+			<g>
+				<polygon points="395.455,557.446 398.36,568.287 401.265,557.446 				"/>
+			</g>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="700.83" y1="448.058" x2="700.83" y2="466.757"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="700.83" y1="500.267" x2="700.83" y2="518.967"/>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="700.83,552.603 700.83,568.915 304.358,568.915 
+				304.358,568.415 304.358,95.428 688.959,95.428 			"/>
+			<g>
+				<polygon points="686.978,98.333 697.818,95.428 686.978,92.522 				"/>
+			</g>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="627.408" y1="378.151" x2="599.296" y2="378.151"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="613.352" y1="214.658" x2="613.352" y2="231.476"/>
+	<g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M774.385,535.782h8.747c0,0,0-5.55,5.93-5.55
+				c5.931,0,6.401,5.55,6.401,5.55h34.689"/>
+			<g>
+				<polygon points="828.171,538.688 839.012,535.782 828.171,532.877 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 846.665 541.0557)" font-family="'ArialMT'" font-size="18.0728">CardStack Running Process</text>
+	<text transform="matrix(1 0 0 1 598.666 720.1514)" font-family="'ArialMT'" font-size="18.0728">Defending Round</text>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="431.125,1128.24 392.462,1128.239 392.462,872.396 
+				619.177,872.396 			"/>
+			<g>
+				<polygon points="617.195,875.302 628.036,872.396 617.195,869.491 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<rect x="463.874" y="886.704" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.636"/>
+		<text transform="matrix(1 0 0 1 528.3833 908.7925)" font-family="'ArialMT'" font-size="18.0728">Msg_SendDefendNeed(n)</text>
+	</g>
+	<g>
+		<rect x="463.874" y="992.129" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="148.099" height="33.636"/>
+		<text transform="matrix(1 0 0 1 477.1772 1014.2173)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayCard</text>
+	</g>
+	<g>
+		<rect x="644.1" y="992.129" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="148.099" height="33.636"/>
+		<text transform="matrix(1 0 0 1 667.9458 1014.2173)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="644.1" y="1142.234" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="148.099" height="33.635"/>
+		<text transform="matrix(1 0 0 1 672.4644 1164.3223)" font-family="'ArialMT'" font-size="18.0728">proc::Bleed</text>
+	</g>
+	<g>
+		<rect x="463.874" y="939.169" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.636"/>
+		<text transform="matrix(1 0 0 1 540.4326 961.2578)" font-family="'ArialMT'" font-size="18.0728">Player[i].NeedDefend</text>
+	</g>
+	<g>
+		<rect x="463.874" y="1564.187" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.636"/>
+		<text transform="matrix(1 0 0 1 585.6138 1586.2749)" font-family="'ArialMT'" font-size="18.0728">proc::return</text>
+	</g>
+	<g>
+		<rect x="464.125" y="1045.847" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.635"/>
+		<text transform="matrix(1 0 0 1 473.6621 1067.9341)" font-family="'ArialMT'" font-size="18.0728">proc::CardStack</text>
+	</g>
+	<g>
+		<rect x="392.462" y="1188.86" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="291.174" height="33.636"/>
+		<text transform="matrix(1 0 0 1 408.9014 1210.9482)" font-family="'ArialMT'" font-size="18.0728">Msg_SendGreenCounterRound</text>
+	</g>
+	<g>
+		<rect x="392.462" y="1376.365" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="291.174" height="33.636"/>
+		<text transform="matrix(1 0 0 1 408.9014 1398.4536)" font-family="'ArialMT'" font-size="18.0728">Msg_SendGreenCounterRound</text>
+	</g>
+	<g>
+		<rect x="392.462" y="1246.091" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="135.679" height="33.636"/>
+		<text transform="matrix(1 0 0 1 399.8652 1268.1787)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayCard</text>
+	</g>
+	<g>
+		<rect x="392.462" y="1300.62" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="135.679" height="33.636"/>
+		<text transform="matrix(1 0 0 1 396.8525 1322.7085)" font-family="'ArialMT'" font-size="18.0728">proc::CardStack</text>
+	</g>
+	<g>
+		<rect x="548.966" y="1246.091" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="134.669" height="33.636"/>
+		<text transform="matrix(1 0 0 1 566.0352 1268.1787)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="628.036" y1="852.818" x2="628.036" y2="886.704"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="628.036" y1="920.34" x2="628.036" y2="939.169"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="628.036" y1="972.805" x2="628.036" y2="1008.946"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="718.148" y1="1025.765" x2="718.148" y2="1142.234"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="718.148" y1="1175.87" x2="718.148" y2="1555.327"/>
+			<g>
+				<polygon points="715.243,1553.346 718.148,1564.187 721.054,1553.346 				"/>
+			</g>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="537.421" y1="1025.765" x2="537.421" y2="1045.847"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="537.421" y1="1222.18" x2="537.421" y2="1262.908"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="611.973" y1="1008.946" x2="644.1" y2="1008.946"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="528.141" y1="1262.908" x2="548.966" y2="1262.908"/>
+	<g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M359.779,1062.661h26.518c0,0,0-5.551,5.93-5.551
+				c5.93,0,6.401,5.551,6.401,5.551h65.498"/>
+			<g>
+				<polygon points="361.761,1065.566 350.92,1062.661 361.761,1059.756 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="359.779" y1="1317.438" x2="392.462" y2="1317.438"/>
+			<g>
+				<polygon points="361.761,1320.344 350.92,1317.438 361.761,1314.533 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="359.779" y1="1505.26" x2="392.462" y2="1505.26"/>
+			<g>
+				<polygon points="361.761,1508.165 350.92,1505.26 361.761,1502.354 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="792.199" y1="1159.051" x2="821.241" y2="1159.051"/>
+			<g>
+				<polygon points="819.26,1161.957 830.101,1159.051 819.26,1156.146 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 116.7246 1067.9341)" font-family="'ArialMT'" font-size="18.0728">CardStack Running Process</text>
+	<text transform="matrix(1 0 0 1 116.7246 1322.7085)" font-family="'ArialMT'" font-size="18.0728">CardStack Running Process</text>
+	<text transform="matrix(1 0 0 1 116.7246 1510.5298)" font-family="'ArialMT'" font-size="18.0728">CardStack Running Process</text>
+	<text transform="matrix(1 0 0 1 838.1299 1164.3223)" font-family="'ArialMT'" font-size="18.0728">Msg_SendBleedNeed(n)</text>
+	<text transform="matrix(1 0 0 1 523.3623 1638.4214)" font-family="'ArialMT'" font-size="18.0728">Defending Process</text>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="431.125,2129.149 392.462,2129.148 392.462,1873.306 
+				619.177,1873.306 			"/>
+			<g>
+				<polygon points="617.195,1876.211 628.036,1873.306 617.195,1870.401 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<rect x="463.874" y="1887.614" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.636"/>
+		<text transform="matrix(1 0 0 1 544.9502 1909.7021)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayerDeath(n)</text>
+	</g>
+	<g>
+		<rect x="181.925" y="2655.771" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.637"/>
+		<rect x="195.98" y="2662.801" fill="none" width="299.21" height="26.606"/>
+		<text transform="matrix(1 0 0 1 280.2964 2678.3086)" font-family="'ArialMT'" font-size="18.0728">proc::DealCards</text>
+	</g>
+	<g>
+		<rect x="181.925" y="2689.408" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.635"/>
+		<rect x="195.98" y="2696.437" fill="none" width="299.21" height="26.606"/>
+		<text transform="matrix(1 0 0 1 243.1094 2711.9443)" font-family="'ArialMT'" font-size="18.0728">proc::ChangeColorRound</text>
+	</g>
+	<g>
+		<rect x="181.925" y="2723.043" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="195.98" y="2730.072" fill="none" width="299.21" height="26.606"/>
+		<text transform="matrix(1 0 0 1 270.7437 2745.5801)" font-family="'ArialMT'" font-size="18.0728">proc::PlayerRound</text>
+	</g>
+	<g>
+		<rect x="181.925" y="2756.679" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="195.98" y="2763.708" fill="none" width="299.21" height="26.606"/>
+		<text transform="matrix(1 0 0 1 270.7437 2779.2158)" font-family="'ArialMT'" font-size="18.0728">proc::PlayerRound</text>
+	</g>
+	<g>
+		<rect x="181.925" y="2790.314" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="195.98" y="2797.344" fill="none" width="299.21" height="26.606"/>
+		<text transform="matrix(1 0 0 1 270.7437 2812.8516)" font-family="'ArialMT'" font-size="18.0728">proc::PlayerRound</text>
+	</g>
+	<g>
+		<rect x="181.925" y="2823.95" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="195.98" y="2830.979" fill="none" width="299.21" height="26.606"/>
+		<text transform="matrix(1 0 0 1 270.7437 2846.4873)" font-family="'ArialMT'" font-size="18.0728">proc::PlayerRound</text>
+	</g>
+	<g>
+		<rect x="181.925" y="2891.222" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="195.98" y="2898.251" fill="none" width="299.21" height="26.606"/>
+		<text transform="matrix(1 0 0 1 270.7437 2913.7588)" font-family="'ArialMT'" font-size="18.0728">proc::PlayerRound</text>
+	</g>
+	<g>
+		<rect x="181.925" y="2924.857" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="195.98" y="2931.887" fill="none" width="299.21" height="26.606"/>
+		<text transform="matrix(1 0 0 1 270.7437 2947.3945)" font-family="'ArialMT'" font-size="18.0728">proc::PlayerRound</text>
+	</g>
+	<g>
+		<rect x="628.036" y="2692.922" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="642.092" y="2699.95" fill="none" width="299.21" height="26.607"/>
+		<text transform="matrix(1 0 0 1 702.2856 2715.459)" font-family="'ArialMT'" font-size="18.0728">proc::DefendRound(1)</text>
+	</g>
+	<g>
+		<rect x="628.036" y="2659.286" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="642.092" y="2666.314" fill="none" width="299.21" height="26.607"/>
+		<text transform="matrix(1 0 0 1 702.2725 2681.8232)" font-family="'ArialMT'" font-size="18.0728">proc::RoundBeginning</text>
+	</g>
+	<g>
+		<rect x="628.036" y="2861.101" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="642.092" y="2868.129" fill="none" width="299.21" height="26.607"/>
+		<text transform="matrix(1 0 0 1 714.3311 2883.6377)" font-family="'ArialMT'" font-size="18.0728">proc::RoundEnding</text>
+	</g>
+	<g>
+		<rect x="628.036" y="2726.558" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="642.092" y="2733.586" fill="none" width="299.21" height="26.607"/>
+		<text transform="matrix(1 0 0 1 706.314 2749.0947)" font-family="'ArialMT'" font-size="18.0728">proc::AttackRound(1)</text>
+	</g>
+	<g>
+		<rect x="628.036" y="2760.193" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="642.092" y="2767.222" fill="none" width="299.21" height="26.607"/>
+		<text transform="matrix(1 0 0 1 702.2856 2782.7305)" font-family="'ArialMT'" font-size="18.0728">proc::DefendRound(2)</text>
+	</g>
+	<g>
+		<rect x="628.036" y="2793.829" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="642.092" y="2800.857" fill="none" width="299.21" height="26.607"/>
+		<text transform="matrix(1 0 0 1 706.314 2816.3662)" font-family="'ArialMT'" font-size="18.0728">proc::AttackRound(2)</text>
+	</g>
+	<g>
+		<rect x="1085.127" y="2575.197" fill="#29ABE2" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.635"/>
+		<rect x="1099.183" y="2582.226" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 1188.5239 2597.7334)" font-family="'ArialMT'" font-size="18.0728">Attack Process</text>
+	</g>
+	<g>
+		<rect x="181.423" y="3129.898" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.635"/>
+		<rect x="195.479" y="3136.927" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 195.9355 3152.4355)" font-family="'ArialMT'" font-size="18.0728">procedure(TMessage);message WM;</text>
+	</g>
+	<g>
+		<rect x="181.423" y="3163.533" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.635"/>
+		<rect x="195.479" y="3170.562" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 312.4414 3186.0693)" font-family="'ArialMT'" font-size="18.0728">Process</text>
+	</g>
+	<g>
+		<rect x="181.423" y="3197.168" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.635"/>
+		<rect x="195.479" y="3204.196" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 246.9185 3219.7041)" font-family="'ArialMT'" font-size="18.0728">NextProcess:=WM(next)</text>
+	</g>
+	<g>
+		<rect x="181.423" y="3230.803" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.635"/>
+		<rect x="195.479" y="3237.831" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 233.0947 3253.3389)" font-family="'ArialMT'" font-size="18.0728">PostMessage(NextProcess)</text>
+	</g>
+	<g>
+		<rect x="577.423" y="3129.898" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.635"/>
+		<rect x="591.479" y="3136.927" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 591.9355 3152.4355)" font-family="'ArialMT'" font-size="18.0728">procedure(TMessage);message WM;</text>
+	</g>
+	<g>
+		<rect x="577.423" y="3163.533" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.635"/>
+		<rect x="591.479" y="3170.562" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 708.4414 3186.0693)" font-family="'ArialMT'" font-size="18.0728">Process</text>
+	</g>
+	<g>
+		<rect x="577.423" y="3197.168" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.635"/>
+		<rect x="591.479" y="3204.196" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 611.2871 3219.7041)" font-family="'ArialMT'" font-size="18.0728">Comfirm[*]:=false;   SetComfirm;</text>
+	</g>
+	<g>
+		<rect x="577.423" y="3230.803" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.635"/>
+		<rect x="591.479" y="3237.831" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 639.9141 3253.3389)" font-family="'ArialMT'" font-size="18.0728">onAllComfirm:=WM(next)</text>
+	</g>
+	<g>
+		<rect x="577.423" y="3264.438" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.635"/>
+		<rect x="591.479" y="3271.466" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 618.5361 3286.9736)" font-family="'ArialMT'" font-size="18.0728">PostMessage(Player.client.hd)</text>
+	</g>
+	<g>
+		<rect x="1085.127" y="2608.832" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.636"/>
+		<rect x="1099.183" y="2615.861" fill="none" width="299.211" height="26.606"/>
+		<text transform="matrix(1 0 0 1 1184.4956 2631.3691)" font-family="'ArialMT'" font-size="18.0728">Defend Process</text>
+	</g>
+	<g>
+		<rect x="1249.29" y="2642.468" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="164.163" height="33.636"/>
+		<rect x="1263.346" y="2649.497" fill="none" width="134.296" height="26.606"/>
+		<text transform="matrix(1 0 0 1 1272.229 2665.0049)" font-family="'ArialMT'" font-size="18.0728">Bleed Process</text>
+	</g>
+	<g>
+		<rect x="1249.29" y="2676.104" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="164.163" height="33.636"/>
+		<rect x="1263.346" y="2683.133" fill="none" width="134.296" height="26.606"/>
+		<text transform="matrix(1 0 0 1 1279.2578 2698.6406)" font-family="'ArialMT'" font-size="18.0728">Red Counter</text>
+	</g>
+	<g>
+		<rect x="1085.127" y="2642.468" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="164.163" height="33.636"/>
+		<rect x="1099.183" y="2649.497" fill="none" width="134.296" height="26.606"/>
+		<text transform="matrix(1 0 0 1 1106.5566 2665.0049)" font-family="'ArialMT'" font-size="18.0728">Green Counter</text>
+	</g>
+	<g>
+		<rect x="1085.127" y="2676.104" fill="#29ABE2" stroke="#000000" stroke-miterlimit="10" width="164.163" height="33.636"/>
+		<rect x="1099.183" y="2683.133" fill="none" width="134.296" height="26.606"/>
+		<text transform="matrix(1 0 0 1 1113.5854 2698.6406)" font-family="'ArialMT'" font-size="18.0728">Blue Counter</text>
+	</g>
+	<g>
+		<rect x="1413.453" y="2810.646" fill="#ED1C24" stroke="#000000" stroke-miterlimit="10" width="164.163" height="33.636"/>
+		<rect x="1427.509" y="2817.675" fill="none" width="134.295" height="26.607"/>
+		<text transform="matrix(1 0 0 1 1438.8975 2833.1836)" font-family="'ArialMT'" font-size="18.0728">Color Change</text>
+	</g>
+	<g>
+		<rect x="1249.29" y="2810.646" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="164.163" height="33.636"/>
+		<rect x="1263.346" y="2817.675" fill="none" width="134.296" height="26.607"/>
+		<text transform="matrix(1 0 0 1 1279.2578 2833.1836)" font-family="'ArialMT'" font-size="18.0728">Return Hand</text>
+	</g>
+	<g>
+		<rect x="1085.127" y="2810.646" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="164.163" height="33.636"/>
+		<rect x="1099.183" y="2817.675" fill="none" width="134.296" height="26.607"/>
+		<text transform="matrix(1 0 0 1 1109.5747 2833.1836)" font-family="'ArialMT'" font-size="18.0728">Function Card</text>
+	</g>
+	<g>
+		<rect x="628.036" y="2827.465" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<rect x="642.092" y="2834.493" fill="none" width="299.21" height="26.607"/>
+		<text transform="matrix(1 0 0 1 702.2856 2850.002)" font-family="'ArialMT'" font-size="18.0728">proc::DefendRound(3)</text>
+	</g>
+	<g>
+		<rect x="463.874" y="2129.149" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.326" height="33.636"/>
+		<text transform="matrix(1 0 0 1 585.6138 2151.2373)" font-family="'ArialMT'" font-size="18.0728">proc::return</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="628.036" y1="1853.728" x2="628.036" y2="1887.614"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="628.036" y1="1921.25" x2="628.036" y2="1940.079"/>
+	<text transform="matrix(1 0 0 1 540.3623 2203.3828)" font-family="'ArialMT'" font-size="18.0728">Dealing Process</text>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2367.988" y1="98.188" x2="2367.988" y2="114.632"/>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="2513.198,142.867 2752.158,142.867 2752.158,925.457 
+				2475.81,925.457 			"/>
+			<g>
+				<polygon points="2477.791,922.552 2466.95,925.457 2477.791,928.362 				"/>
+			</g>
+		</g>
+	</g>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="2559.382,420.863 2652.196,420.863 2652.196,468.304 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2367.988" y1="170.982" x2="2367.988" y2="219.93"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2367.988" y1="253.564" x2="2367.988" y2="275.402"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2367.988" y1="309.038" x2="2367.988" y2="334.641"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2533.153" y1="334.641" x2="2204.828" y2="334.641"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2652.196" y1="726.473" x2="2271.032" y2="726.473"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2271.032" y1="375.305" x2="2271.032" y2="403.167"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2271.032" y1="436.927" x2="2271.032" y2="440.427"/>
+			
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6.9888,2.9952" x1="2271.032" y1="443.422" x2="2271.032" y2="721.476"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2271.032" y1="722.974" x2="2271.032" y2="726.474"/>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2466.95" y1="375.305" x2="2466.95" y2="392.624"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2466.95" y1="449.1" x2="2466.95" y2="468.304"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2466.95" y1="501.939" x2="2466.95" y2="521.143"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2652.196" y1="501.939" x2="2652.196" y2="521.143"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2466.95" y1="554.149" x2="2466.95" y2="573.353"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2466.95" y1="767.006" x2="2466.95" y2="786.209"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2466.95" y1="605.481" x2="2466.95" y2="608.981"/>
+			
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="7.0614,3.0263" x1="2466.95" y1="612.008" x2="2466.95" y2="721.459"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2466.95" y1="722.973" x2="2466.95" y2="726.473"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2652.196" y1="708.651" x2="2652.196" y2="712.151"/>
+			
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5.8271,2.4973" x1="2652.196" y1="714.648" x2="2652.196" y2="721.724"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2652.196" y1="722.973" x2="2652.196" y2="726.473"/>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2652.196" y1="554.149" x2="2652.196" y2="573.353"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2652.196" y1="605.481" x2="2652.196" y2="624.685"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2652.196" y1="656.376" x2="2652.196" y2="675.579"/>
+	<g>
+		<rect x="539.177" y="42.214" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.635"/>
+		<text transform="matrix(1 0 0 1 636.8203 64.3018)" font-family="'ArialMT'" font-size="18.0728">CardNumber=0</text>
+	</g>
+	<g>
+		<rect x="2204.828" y="64.553" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2251.2651 86.6406)" font-family="'ArialMT'" font-size="18.0728">CardStack.AddCardFirst(Card)</text>
+	</g>
+	<g>
+		<rect x="2271.032" y="732.995" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="381.164" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2384.0503 755.0835)" font-family="'ArialMT'" font-size="18.0728">event::onAllComfirm</text>
+	</g>
+	<g>
+		<rect x="2271.032" y="866.406" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="381.164" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2347.9048 888.4941)" font-family="'ArialMT'" font-size="18.0728">CardStack.last.equipped=true</text>
+	</g>
+	<g>
+		<rect x="2271.032" y="951.248" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="381.164" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2332.8442 973.3364)" font-family="'ArialMT'" font-size="18.0728">comfirm[*]=false    actioned=false</text>
+	</g>
+	<g>
+		<rect x="2271.032" y="1009.483" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="381.164" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2343.3872 1031.5713)" font-family="'ArialMT'" font-size="18.0728">broadcast:  Msg_FunctionNeed</text>
+	</g>
+	<g>
+		<rect x="2204.828" y="219.93" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.635"/>
+		<text transform="matrix(1 0 0 1 2236.2046 242.0171)" font-family="'ArialMT'" font-size="18.0728">comfirm[*]=false    actioned=false</text>
+	</g>
+	<g>
+		<rect x="2204.828" y="275.402" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2255.7837 297.4902)" font-family="'ArialMT'" font-size="18.0728">broadcast: Msg_EquipNeed</text>
+	</g>
+	<g>
+		<rect x="2204.828" y="341.669" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="132.409" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2218.1318 363.7568)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="2204.828" y="403.167" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="132.409" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2210.6016 425.2559)" font-family="'ArialMT'" font-size="18.0728">comfirm[i]=true</text>
+	</g>
+	<g>
+		<rect x="2400.745" y="341.669" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="132.408" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2408.0239 363.7568)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayCard</text>
+	</g>
+	<g>
+		<rect x="2385.373" y="468.304" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="163.155" height="33.635"/>
+		<text transform="matrix(1 0 0 1 2401.688 490.3916)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayFailed</text>
+	</g>
+	<g>
+		<rect x="2570.618" y="468.304" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="163.155" height="33.635"/>
+		<text transform="matrix(1 0 0 1 2579.4033 490.3916)" font-family="'ArialMT'" font-size="18.0728">Msg_PlaySuccess</text>
+	</g>
+	<g>
+		<rect x="2385.373" y="520.514" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="163.155" height="33.635"/>
+		<text transform="matrix(1 0 0 1 2416.7485 542.6025)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="2570.618" y="520.514" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="163.155" height="33.635"/>
+		<text transform="matrix(1 0 0 1 2600.4883 542.6025)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="2400.745" y="571.846" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="132.408" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2406.5181 593.9346)" font-family="'ArialMT'" font-size="18.0728">comfirm[i]=true</text>
+	</g>
+	<g>
+		<rect x="2585.991" y="571.846" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="132.408" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2591.7637 593.9346)" font-family="'ArialMT'" font-size="18.0728">comfirm[i]=true</text>
+	</g>
+	<g>
+		<rect x="2585.991" y="623.557" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="132.408" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2597.7891 645.645)" font-family="'ArialMT'" font-size="18.0728">actioned=true</text>
+	</g>
+	<g>
+		<rect x="2585.991" y="675.015" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="132.408" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2593.2695 697.1035)" font-family="'ArialMT'" font-size="18.0728">CardStack.add</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2367.988" y1="30.667" x2="2367.988" y2="64.553"/>
+	<text transform="matrix(1 0 0 1 2373.5083 186.3564)" font-family="'ArialMT'" font-size="18.0728">ture</text>
+	<text transform="matrix(1 0 0 1 2553.4824 414.7134)" font-family="'ArialMT'" font-size="18.0728">ture</text>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="2375.524,814.452 2173.829,814.452 2173.829,204.617 
+				2359.128,204.617 			"/>
+			<g>
+				<polygon points="2357.147,207.522 2367.988,204.617 2357.147,201.712 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 2345.646 808.2974)" font-family="'ArialMT'" font-size="18.0728">ture</text>
+	<text transform="matrix(1 0 0 1 2496.8789 137.5972)" font-family="'ArialMT'" font-size="18.0728">false</text>
+	<text transform="matrix(1 0 0 1 2472.0288 464.1606)" font-family="'ArialMT'" font-size="18.0728">false</text>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2466.95" y1="842.685" x2="2466.95" y2="866.406"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2466.95" y1="900.042" x2="2466.95" y2="950.872"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2466.95" y1="984.884" x2="2466.95" y2="1009.483"/>
+	<text transform="matrix(1 0 0 1 2472.0288 862.2646)" font-family="'ArialMT'" font-size="18.0728">false</text>
+	<text transform="matrix(1 0 0 1 2500.3628 1672.5283)" font-family="'ArialMT'" font-size="18.0728">CardStack Running Process</text>
+	<g>
+		<polygon fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="2222.78,142.869 2367.988,171.107 2513.195,142.869 
+			2367.988,114.632 		"/>
+		<text transform="matrix(1 0 0 1 2274.6094 149.8955)" font-family="'ArialMT'" font-size="18.0728">Card is TNumberCard?</text>
+	</g>
+	<g>
+		<polygon fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="2374.518,420.861 2466.95,449.1 2559.382,420.861 
+			2466.95,392.624 		"/>
+		<text transform="matrix(1 0 0 1 2400.6807 426.3823)" font-family="'ArialMT'" font-size="18.0728">comfirm[*]=false</text>
+	</g>
+	<g>
+		<polygon fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="2374.518,814.446 2466.95,842.685 2559.382,814.446 
+			2466.95,786.209 		"/>
+		<text transform="matrix(1 0 0 1 2427.7896 819.9673)" font-family="'ArialMT'" font-size="18.0728">actioned?</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="536.044" y1="1100.002" x2="536.044" y2="1079.481"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="463.874" y1="1300.247" x2="463.874" y2="1279.727"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="616.301" y1="1346.87" x2="616.301" y2="1279.727"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="463.874" y1="1346.87" x2="616.301" y2="1346.87"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="463.874" y1="1346.87" x2="463.874" y2="1333.598"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="536.044" y1="1367.506" x2="536.044" y2="1346.87"/>
+			<g>
+				<polygon points="538.949,1365.524 536.044,1376.365 533.139,1365.524 				"/>
+			</g>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="616.301" y1="1534.691" x2="616.301" y2="1467.548"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="463.874" y1="1534.691" x2="616.301" y2="1534.691"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="463.874" y1="1534.691" x2="463.874" y2="1521.419"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="536.044" y1="1555.327" x2="536.044" y2="1534.691"/>
+			<g>
+				<polygon points="538.949,1553.346 536.044,1564.187 533.139,1553.346 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<rect x="392.462" y="1433.912" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="135.679" height="33.636"/>
+		<text transform="matrix(1 0 0 1 399.8652 1456.0005)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayCard</text>
+	</g>
+	<g>
+		<rect x="392.462" y="1488.441" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="135.679" height="33.636"/>
+		<text transform="matrix(1 0 0 1 396.8525 1510.5298)" font-family="'ArialMT'" font-size="18.0728">proc::CardStack</text>
+	</g>
+	<g>
+		<rect x="548.966" y="1433.912" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="134.669" height="33.636"/>
+		<text transform="matrix(1 0 0 1 566.0352 1456.0005)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="537.421" y1="1410.001" x2="537.421" y2="1450.729"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="528.141" y1="1450.729" x2="548.966" y2="1450.729"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="463.874" y1="1488.069" x2="463.874" y2="1467.548"/>
+	<text transform="matrix(1 0 0 1 541.562 1170.5967)" font-family="'ArialMT'" font-size="18.0728">ture</text>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="536.044" y1="1156.479" x2="536.044" y2="1180.001"/>
+			<g>
+				<polygon points="533.139,1178.02 536.044,1188.86 538.949,1178.02 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 402.8789 1122.8438)" font-family="'ArialMT'" font-size="18.0728">false</text>
+	<g>
+		<polygon fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="431.125,1128.24 536.044,1156.479 640.963,1128.24 
+			536.044,1100.002 		"/>
+		<text transform="matrix(1 0 0 1 465.2563 1135.2666)" font-family="'ArialMT'" font-size="18.0728">NeedDefend&lt;=0?</text>
+	</g>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="1436.177,1128.24 1397.514,1128.239 1397.514,872.396 
+				1624.229,872.396 			"/>
+			<g>
+				<polygon points="1622.247,875.302 1633.088,872.396 1622.247,869.491 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<rect x="1468.926" y="886.704" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1533.4351 908.7925)" font-family="'ArialMT'" font-size="18.0728">Msg_SendBleedNeed(n)</text>
+	</g>
+	<g>
+		<rect x="1468.926" y="992.129" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="148.099" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1482.2295 1014.2173)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayCard</text>
+	</g>
+	<g>
+		<rect x="1649.152" y="992.129" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="148.099" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1672.9976 1014.2173)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="1649.152" y="1142.234" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="148.099" height="33.635"/>
+		<text transform="matrix(1 0 0 1 1677.5161 1164.3223)" font-family="'ArialMT'" font-size="18.0728">proc::Death</text>
+	</g>
+	<g>
+		<rect x="1468.926" y="939.169" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1545.4839 961.2578)" font-family="'ArialMT'" font-size="18.0728">Player[i].NeedBleed</text>
+	</g>
+	<g>
+		<rect x="1468.926" y="1378.999" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1590.6655 1401.0869)" font-family="'ArialMT'" font-size="18.0728">proc::return</text>
+	</g>
+	<g>
+		<rect x="1469.177" y="1045.847" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.635"/>
+		<text transform="matrix(1 0 0 1 1478.7144 1067.9341)" font-family="'ArialMT'" font-size="18.0728">proc::CardStack</text>
+	</g>
+	<g>
+		<rect x="1397.514" y="1188.86" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="291.174" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1413.9531 1210.9482)" font-family="'ArialMT'" font-size="18.0728">Msg_SendRedCounterRound</text>
+	</g>
+	<g>
+		<rect x="1397.514" y="1246.091" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="135.679" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1404.9165 1268.1787)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayCard</text>
+	</g>
+	<g>
+		<rect x="1397.514" y="1300.62" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="135.679" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1401.9048 1322.7085)" font-family="'ArialMT'" font-size="18.0728">proc::CardStack</text>
+	</g>
+	<g>
+		<rect x="1554.018" y="1246.091" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="134.669" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1571.0869 1268.1787)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1633.088" y1="852.818" x2="1633.088" y2="886.704"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1633.088" y1="920.34" x2="1633.088" y2="939.169"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1633.088" y1="972.805" x2="1633.088" y2="1008.946"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1723.201" y1="1025.765" x2="1723.201" y2="1142.234"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1723.201" y1="1175.87" x2="1723.201" y2="1370.14"/>
+			<g>
+				<polygon points="1720.295,1368.158 1723.201,1378.999 1726.106,1368.158 				"/>
+			</g>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1542.473" y1="1025.765" x2="1542.473" y2="1045.847"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1542.473" y1="1222.18" x2="1542.473" y2="1262.908"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1617.024" y1="1008.946" x2="1649.152" y2="1008.946"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1533.192" y1="1262.908" x2="1554.018" y2="1262.908"/>
+	<g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M1364.831,1062.661h26.518c0,0,0-5.551,5.93-5.551
+				c5.931,0,6.401,5.551,6.401,5.551h65.498"/>
+			<g>
+				<polygon points="1366.813,1065.566 1355.972,1062.661 1366.813,1059.756 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1364.831" y1="1317.438" x2="1397.514" y2="1317.438"/>
+			<g>
+				<polygon points="1366.813,1320.344 1355.972,1317.438 1366.813,1314.533 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1797.251" y1="1159.051" x2="1826.293" y2="1159.051"/>
+			<g>
+				<polygon points="1824.312,1161.957 1835.152,1159.051 1824.312,1156.146 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1121.7764 1067.9341)" font-family="'ArialMT'" font-size="18.0728">CardStack Running Process</text>
+	<text transform="matrix(1 0 0 1 1121.7764 1322.7085)" font-family="'ArialMT'" font-size="18.0728">CardStack Running Process</text>
+	<text transform="matrix(1 0 0 1 1843.1821 1164.3223)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayerDeadth(n)</text>
+	<text transform="matrix(1 0 0 1 1528.4141 1453.2334)" font-family="'ArialMT'" font-size="18.0728">Bleeding Process</text>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1541.096" y1="1100.002" x2="1541.096" y2="1079.481"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1468.926" y1="1300.247" x2="1468.926" y2="1279.727"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1621.353" y1="1346.87" x2="1621.353" y2="1279.727"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1468.926" y1="1346.87" x2="1621.353" y2="1346.87"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1468.926" y1="1346.87" x2="1468.926" y2="1333.598"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1541.096" y1="1370.14" x2="1541.096" y2="1346.87"/>
+			<g>
+				<polygon points="1544.001,1368.158 1541.096,1378.999 1538.191,1368.158 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1546.6138 1170.5967)" font-family="'ArialMT'" font-size="18.0728">ture</text>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1541.096" y1="1156.479" x2="1541.096" y2="1180.001"/>
+			<g>
+				<polygon points="1538.191,1178.02 1541.096,1188.86 1544.001,1178.02 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1407.9302 1122.8438)" font-family="'ArialMT'" font-size="18.0728">false</text>
+	<g>
+		<polygon fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="1436.177,1128.24 1541.096,1156.479 1646.015,1128.24 
+			1541.096,1100.002 		"/>
+		<text transform="matrix(1 0 0 1 1470.3081 1135.2666)" font-family="'ArialMT'" font-size="18.0728">NeedBleed&lt;=0?</text>
+	</g>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="2659.064,1142.08 2751.879,1142.08 2751.879,1189.52 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2467.671" y1="1043.809" x2="2467.671" y2="1079.703"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2500.428" y1="1079.704" x2="2436.92" y2="1079.704"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2751.879" y1="1447.689" x2="2370.715" y2="1447.689"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2370.715" y1="1096.521" x2="2370.715" y2="1124.383"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2370.715" y1="1158.143" x2="2370.715" y2="1161.643"/>
+			
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6.9888,2.9952" x1="2370.715" y1="1164.638" x2="2370.715" y2="1442.693"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2370.715" y1="1444.19" x2="2370.715" y2="1447.69"/>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2566.633" y1="1096.521" x2="2566.633" y2="1113.841"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2566.633" y1="1170.317" x2="2566.633" y2="1189.52"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2566.633" y1="1223.155" x2="2566.633" y2="1242.358"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2751.879" y1="1223.155" x2="2751.879" y2="1242.358"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2566.633" y1="1275.366" x2="2566.633" y2="1294.569"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2566.633" y1="1488.223" x2="2566.633" y2="1507.425"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2566.633" y1="1326.698" x2="2566.633" y2="1330.198"/>
+			
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="7.0614,3.0263" x1="2566.633" y1="1333.225" x2="2566.633" y2="1442.676"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2566.633" y1="1444.189" x2="2566.633" y2="1447.689"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2751.879" y1="1429.867" x2="2751.879" y2="1433.367"/>
+			
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5.8274,2.4974" x1="2751.879" y1="1435.865" x2="2751.879" y2="1442.941"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2751.879" y1="1444.189" x2="2751.879" y2="1447.689"/>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2751.879" y1="1275.366" x2="2751.879" y2="1294.569"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2751.879" y1="1326.698" x2="2751.879" y2="1345.901"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2751.879" y1="1377.593" x2="2751.879" y2="1396.796"/>
+	<g>
+		<rect x="2370.715" y="1454.212" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="381.164" height="33.635"/>
+		<text transform="matrix(1 0 0 1 2483.7334 1476.2998)" font-family="'ArialMT'" font-size="18.0728">event::onAllComfirm</text>
+	</g>
+	<g>
+		<rect x="2370.715" y="1587.623" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="381.164" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2504.8184 1609.7109)" font-family="'ArialMT'" font-size="18.0728">CardStack.Run</text>
+	</g>
+	<g>
+		<rect x="2304.511" y="1062.885" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="132.409" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2317.8149 1084.9736)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="2304.511" y="1124.383" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="132.409" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2310.2847 1146.4717)" font-family="'ArialMT'" font-size="18.0728">comfirm[i]=true</text>
+	</g>
+	<g>
+		<rect x="2500.428" y="1062.885" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="132.408" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2507.707 1084.9736)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayCard</text>
+	</g>
+	<g>
+		<rect x="2485.055" y="1189.52" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="163.155" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2501.3706 1211.6084)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayFailed</text>
+	</g>
+	<g>
+		<rect x="2670.301" y="1189.52" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="163.155" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2679.0859 1211.6084)" font-family="'ArialMT'" font-size="18.0728">Msg_PlaySuccess</text>
+	</g>
+	<g>
+		<rect x="2485.055" y="1241.73" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="163.155" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2516.4316 1263.8188)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="2670.301" y="1241.73" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="163.155" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2700.1719 1263.8188)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="2500.428" y="1293.063" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="132.408" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2506.2012 1315.1509)" font-family="'ArialMT'" font-size="18.0728">comfirm[i]=true</text>
+	</g>
+	<g>
+		<rect x="2685.674" y="1293.063" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="132.408" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2691.4473 1315.1509)" font-family="'ArialMT'" font-size="18.0728">comfirm[i]=true</text>
+	</g>
+	<g>
+		<rect x="2685.674" y="1344.773" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="132.408" height="33.636"/>
+		<text transform="matrix(1 0 0 1 2697.4707 1366.8618)" font-family="'ArialMT'" font-size="18.0728">actioned=true</text>
+	</g>
+	<g>
+		<rect x="2685.674" y="1396.232" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="132.408" height="33.635"/>
+		<text transform="matrix(1 0 0 1 2692.9531 1418.3203)" font-family="'ArialMT'" font-size="18.0728">CardStack.add</text>
+	</g>
+	<text transform="matrix(1 0 0 1 2653.166 1135.9292)" font-family="'ArialMT'" font-size="18.0728">ture</text>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="2475.207,1535.668 2173.829,1535.668 2173.829,925.457 
+				2458.812,925.457 			"/>
+			<g>
+				<polygon points="2456.83,928.362 2467.671,925.457 2456.83,922.552 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 2445.3286 1529.5137)" font-family="'ArialMT'" font-size="18.0728">ture</text>
+	<text transform="matrix(1 0 0 1 2571.7109 1185.3779)" font-family="'ArialMT'" font-size="18.0728">false</text>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="2566.633" y1="1563.901" x2="2566.633" y2="1587.623"/>
+	<text transform="matrix(1 0 0 1 2571.7109 1583.4805)" font-family="'ArialMT'" font-size="18.0728">false</text>
+	<g>
+		<polygon fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="2474.201,1142.078 2566.633,1170.317 2659.064,1142.078 
+			2566.633,1113.841 		"/>
+		<text transform="matrix(1 0 0 1 2500.3628 1147.5986)" font-family="'ArialMT'" font-size="18.0728">comfirm[*]=false</text>
+	</g>
+	<g>
+		<polygon fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="2474.201,1535.663 2566.633,1563.901 2659.064,1535.663 
+			2566.633,1507.425 		"/>
+		<text transform="matrix(1 0 0 1 2527.4727 1541.1836)" font-family="'ArialMT'" font-size="18.0728">actioned?</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="510.25" y1="2790.314" x2="628.036" y2="2692.922"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="510.25" y1="2823.95" x2="628.036" y2="2861.101"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="346.087" y1="2857.586" x2="346.087" y2="2859.086"/>
+			
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="2.7851,2.7851" x1="346.087" y1="2861.871" x2="346.087" y2="2888.329"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="346.087" y1="2889.722" x2="346.087" y2="2891.222"/>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="956.361" y1="2726.558" x2="1085.127" y2="2575.197"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="956.361" y1="2760.193" x2="1085.127" y2="2709.739"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="508.439" y1="259.714" x2="478.635" y2="259.713"/>
+			<g>
+				<polygon points="480.617,256.808 469.776,259.712 480.617,262.618 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 618.8755 302.0703)" font-family="'ArialMT'" font-size="18.0728">ture</text>
+	<text transform="matrix(1 0 0 1 480.1924 254.3174)" font-family="'ArialMT'" font-size="18.0728">false</text>
+	<g>
+		<polygon fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="508.439,259.714 613.358,287.953 718.276,259.714 
+			613.358,231.476 		"/>
+		<text transform="matrix(1 0 0 1 547.0884 266.7393)" font-family="'ArialMT'" font-size="18.0728">CardNumber&lt;2?</text>
+	</g>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="968.281,328.177 968.281,344.933 1064.419,344.933 
+				1064.419,95.428 706.678,95.428 			"/>
+			<g>
+				<polygon points="708.659,92.522 697.818,95.428 708.659,98.333 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<rect x="1435.286" y="109.734" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1499.7959 131.8228)" font-family="'ArialMT'" font-size="18.0728">Msg_SendAttackRound</text>
+	</g>
+	<g>
+		<rect x="1435.286" y="587.911" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1531.4233 609.9995)" font-family="'ArialMT'" font-size="18.0728">proc::NextProcess</text>
+	</g>
+	<g>
+		<rect x="1435.538" y="181.022" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="147.847" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1443.5928 203.1108)" font-family="'ArialMT'" font-size="18.0728">Msg_AttackCard</text>
+	</g>
+	<g>
+		<rect x="1435.723" y="423.749" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1449.7778 445.8379)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<g>
+		<rect x="1435.353" y="476.085" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="147.847" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1444.8892 498.1738)" font-family="'ArialMT'" font-size="18.0728">proc::CardStack</text>
+	</g>
+	<g>
+		<rect x="1435.723" y="371.539" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.637"/>
+		<text transform="matrix(1 0 0 1 1436.2231 393.6279)" font-family="'ArialMT'" font-size="18.0728">Msg_PlaySuccess</text>
+	</g>
+	<g>
+		<rect x="1435.543" y="311.297" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="147.847" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1442.0679 333.3857)" font-family="'ArialMT'" font-size="18.0728">CardNumber+=1</text>
+	</g>
+	<g>
+		<rect x="1219.039" y="242.895" fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1227.0698 264.9834)" font-family="'ArialMT'" font-size="18.0728">Msg_PlayFailed</text>
+	</g>
+	<g>
+		<rect x="1606.726" y="181.022" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="156.885" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1621.7813 203.1108)" font-family="'ArialMT'" font-size="18.0728">Msg_AttackEnd</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1593.928" y1="143.37" x2="1593.928" y2="197.84"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1593.928" y1="75.849" x2="1593.928" y2="109.734"/>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="1596.939,579.052 1596.939,558.924 1685.168,558.924 
+				1685.168,214.658 			"/>
+			<g>
+				<polygon points="1599.845,577.07 1596.939,587.911 1594.034,577.07 				"/>
+			</g>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1606.726" y1="197.84" x2="1583.385" y2="197.84"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1509.461" y1="287.953" x2="1509.461" y2="311.297"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1509.461" y1="344.933" x2="1509.461" y2="371.539"/>
+	<g>
+		<rect x="1219.039" y="294.541" fill="#8CC63F" stroke="#000000" stroke-miterlimit="10" width="147.848" height="33.636"/>
+		<text transform="matrix(1 0 0 1 1233.0947 316.6294)" font-family="'ArialMT'" font-size="18.0728">Msg_Default</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1294.469" y1="275.967" x2="1294.469" y2="294.667"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1294.469" y1="328.175" x2="1294.469" y2="516.546"/>
+			<g>
+				<polygon points="1291.563,514.564 1294.469,525.405 1297.374,514.564 				"/>
+			</g>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1509.646" y1="405.176" x2="1509.646" y2="423.875"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1509.646" y1="457.385" x2="1509.646" y2="476.085"/>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="1509.646,509.721 1509.646,526.033 1200.468,526.033 
+				1200.468,525.532 1200.468,95.428 1585.068,95.428 			"/>
+			<g>
+				<polygon points="1583.087,98.333 1593.928,95.428 1583.087,92.522 				"/>
+			</g>
+		</g>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1509.461" y1="214.658" x2="1509.461" y2="231.476"/>
+	<g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M1583.201,492.9h96.04c0,0,0-5.551,5.93-5.551
+				s6.401,5.551,6.401,5.551h34.69"/>
+			<g>
+				<polygon points="1724.28,495.806 1735.121,492.9 1724.28,489.995 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1742.7739 498.1738)" font-family="'ArialMT'" font-size="18.0728">CardStack Running Process</text>
+	<text transform="matrix(1 0 0 1 1494.7749 677.2695)" font-family="'ArialMT'" font-size="18.0728">Attacking Round</text>
+	<g>
+		<rect x="1435.286" y="42.214" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" width="328.325" height="33.635"/>
+		<text transform="matrix(1 0 0 1 1532.9292 64.3018)" font-family="'ArialMT'" font-size="18.0728">CardNumber=0</text>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1404.549" y1="259.714" x2="1374.744" y2="259.713"/>
+			<g>
+				<polygon points="1376.726,256.808 1365.885,259.712 1376.726,262.618 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1514.9844 302.0703)" font-family="'ArialMT'" font-size="18.0728">ture</text>
+	<text transform="matrix(1 0 0 1 1376.3013 254.3174)" font-family="'ArialMT'" font-size="18.0728">false</text>
+	<g>
+		<polygon fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="1404.549,259.714 1509.467,287.953 1614.386,259.714 
+			1509.467,231.476 		"/>
+		<text transform="matrix(1 0 0 1 1443.1982 266.7393)" font-family="'ArialMT'" font-size="18.0728">CardNumber&lt;1?</text>
+	</g>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="956.361" y1="2827.465" x2="1085.127" y2="2810.646"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1085.127" y1="2844.282" x2="956.361" y2="2861.101"/>
+</g>
+</svg>

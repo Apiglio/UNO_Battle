@@ -1,0 +1,21 @@
+object RuleForm: TRuleForm
+  Left = 1576
+  Height = 240
+  Top = 723
+  Width = 320
+  Caption = '规则主机'
+  ClientHeight = 240
+  ClientWidth = 320
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  LCLVersion = '1.8.4.0'
+  object Memo_cmd: TMemo
+    Left = 8
+    Height = 192
+    Top = 8
+    Width = 304
+    OnKeyPress = Memo_cmdKeyPress
+    ScrollBars = ssAutoVertical
+    TabOrder = 0
+  end
+end

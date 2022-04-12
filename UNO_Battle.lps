@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="13">
+      <Unit0>
+        <Filename Value="UNO_Battle.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos Y="15"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="RuleForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="541"/>
+        <CursorPos X="33" Y="548"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="card.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="819"/>
+        <CursorPos X="18" Y="842"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="7"/>
+          <TopLine Value="287"/>
+          <CursorPos X="36" Y="289"/>
+        </ExtraEditor1>
+        <UsageCount Value="204"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="player.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="32"/>
+        <CursorPos X="22" Y="46"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="6"/>
+          <TopLine Value="31"/>
+          <CursorPos X="15" Y="43"/>
+        </ExtraEditor1>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="defination.pas"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="30" Y="9"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="4"/>
+          <CursorPos X="19" Y="14"/>
+        </ExtraEditor1>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="fcmd.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="cmd"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="29"/>
+        <CursorPos X="36" Y="43"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="client.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="426"/>
+        <CursorPos X="37" Y="438"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="3"/>
+          <WindowIndex Value="1"/>
+          <TopLine Value="358"/>
+          <CursorPos X="29" Y="365"/>
+        </ExtraEditor1>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="cardviewer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="43"/>
+        <CursorPos X="61" Y="28"/>
+        <UsageCount Value="129"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="carddisplay.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CardDisplay"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="21"/>
+        <CursorPos X="29" Y="60"/>
+        <UsageCount Value="105"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\FPC_Unit\Auf\apiglio_useful.pas"/>
+        <UnitName Value="Apiglio_Useful"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="76" Y="15"/>
+        <UsageCount Value="59"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="K:\lazarus\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="495"/>
+        <CursorPos X="25" Y="512"/>
+        <UsageCount Value="3"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="K:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="989"/>
+        <CursorPos X="13" Y="951"/>
+        <UsageCount Value="2"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="D:\Lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4199"/>
+        <CursorPos Y="4212"/>
+        <UsageCount Value="27"/>
+      </Unit12>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="card.pas"/>
+        <Caret Line="238" Column="14" TopLine="232"/>
+      </Position1>
+      <Position2>
+        <Filename Value="client.pas"/>
+        <Caret Line="359" Column="54" TopLine="349"/>
+      </Position2>
+      <Position3>
+        <Filename Value="main.pas"/>
+        <Caret Line="13" Column="29" TopLine="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="main.pas"/>
+        <Caret Line="106" Column="20" TopLine="85"/>
+      </Position4>
+      <Position5>
+        <Filename Value="player.pas"/>
+        <Caret Line="53" Column="25" TopLine="39"/>
+      </Position5>
+      <Position6>
+        <Filename Value="main.pas"/>
+        <Caret Line="103" Column="33" TopLine="85"/>
+      </Position6>
+      <Position7>
+        <Filename Value="main.pas"/>
+        <Caret Line="551" Column="19" TopLine="539"/>
+      </Position7>
+      <Position8>
+        <Filename Value="card.pas"/>
+        <Caret Line="162" Column="3" TopLine="148"/>
+      </Position8>
+      <Position9>
+        <Filename Value="card.pas"/>
+        <Caret Line="42" Column="19" TopLine="26"/>
+      </Position9>
+      <Position10>
+        <Filename Value="card.pas"/>
+        <Caret Line="300" Column="86" TopLine="291"/>
+      </Position10>
+      <Position11>
+        <Filename Value="main.pas"/>
+        <Caret Line="550" Column="20" TopLine="539"/>
+      </Position11>
+      <Position12>
+        <Filename Value="main.pas"/>
+        <Caret Line="904" Column="40" TopLine="882"/>
+      </Position12>
+      <Position13>
+        <Filename Value="main.pas"/>
+        <Caret Line="944" Column="49" TopLine="921"/>
+      </Position13>
+      <Position14>
+        <Filename Value="main.pas"/>
+        <Caret Line="140" Column="24" TopLine="128"/>
+      </Position14>
+      <Position15>
+        <Filename Value="player.pas"/>
+        <Caret Line="41" Column="15" TopLine="19"/>
+      </Position15>
+      <Position16>
+        <Filename Value="main.pas"/>
+        <Caret Line="966" Column="35" TopLine="955"/>
+      </Position16>
+      <Position17>
+        <Filename Value="player.pas"/>
+        <Caret Line="43" Column="15" TopLine="29"/>
+      </Position17>
+      <Position18>
+        <Filename Value="player.pas"/>
+        <Caret Line="45" Column="26" TopLine="29"/>
+      </Position18>
+      <Position19>
+        <Filename Value="player.pas"/>
+        <Caret Line="140" Column="24" TopLine="118"/>
+      </Position19>
+      <Position20>
+        <Filename Value="player.pas"/>
+        <Caret Line="43" Column="15" TopLine="31"/>
+      </Position20>
+      <Position21>
+        <Filename Value="player.pas"/>
+        <Caret Line="45" Column="26" TopLine="31"/>
+      </Position21>
+      <Position22>
+        <Filename Value="player.pas"/>
+        <Caret Line="140" Column="24" TopLine="121"/>
+      </Position22>
+      <Position23>
+        <Filename Value="main.pas"/>
+        <Caret Line="961" Column="32" TopLine="943"/>
+      </Position23>
+      <Position24>
+        <Filename Value="main.pas"/>
+        <Caret Line="1058" Column="44" TopLine="1035"/>
+      </Position24>
+      <Position25>
+        <Filename Value="main.pas"/>
+        <Caret Line="525" Column="103" TopLine="511"/>
+      </Position25>
+      <Position26>
+        <Filename Value="main.pas"/>
+        <Caret Line="931" Column="33" TopLine="908"/>
+      </Position26>
+      <Position27>
+        <Filename Value="main.pas"/>
+        <Caret Line="943" Column="37" TopLine="920"/>
+      </Position27>
+      <Position28>
+        <Filename Value="main.pas"/>
+        <Caret Line="957" Column="37" TopLine="934"/>
+      </Position28>
+      <Position29>
+        <Filename Value="main.pas"/>
+        <Caret Line="1058" Column="44" TopLine="1035"/>
+      </Position29>
+      <Position30>
+        <Filename Value="card.pas"/>
+        <Caret Line="303" Column="32" TopLine="308"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
